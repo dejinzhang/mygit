@@ -1,0 +1,19 @@
+view  cd log reflog
+ 
+ view  cd log reflog  
+
+ view  view view vjiew view  cd 
+
+ view  view cd view view cd view 
+
+ reflog status reflog view  view cdview  
+
+ reflog   reflog  status view cd view cd view 
+
+ view cd reflog status view branch  git branch oneline
+
+ view  reflog  view  cd  view  branch giff oneline branch git add  
+
+ view view cd  view  reflog branch giff cd oneline  giff git cd branch status
+
+ view  cd giff cd status view reflog view  log  less view git view  status reflog 
